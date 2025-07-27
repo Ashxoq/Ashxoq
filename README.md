@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hello there!
 
-<!--
-**Ashxoq/Ashxoq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a first-year IT student, just beginning my journey into tech — curious, motivated, and deeply interested in how things work beneath the surface.
 
-Here are some ideas to get you started:
+🚀 Exploring areas like:
+- 🛡️ Cybersecurity & Ethical Hacking  
+- 🌐 Full Stack Development  
+- ⚙️ DevOps & Cloud Infrastructure  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 Intellectually curious and always learning  
+💡 Currently building a strong foundation for the future
+
+This is just the beginning — the space may look quiet now, but it won’t stay that way for long. Stick around :)
