@@ -1,6 +1,6 @@
 # 👋 Hello there!
 
-I'm a first-year IT student, just beginning my journey into tech — curious, motivated, and deeply interested in how things work beneath the surface.
+I'm a first-year computer science and engineering student, just beginning my journey into tech — curious, motivated, and deeply interested in how things work beneath the surface.
 
 🚀 Exploring areas like:
 - 🛡️ Cybersecurity & Ethical Hacking  
